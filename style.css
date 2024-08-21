@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #3792e6;
+}
+div{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px
+}
+.portada img{
+  height: 500px;
+}
+.titulo p{
+  font-size: 50px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+.enlace p{
+  font-size: 30px;
+  color: blue;
+    font-family: 'azure', Times, serif;
+}
+.subtitulo p{
+font-size: 30px;
+color: white; 
+font-family: 'Bauhaus 93';
+}
+.explicacion p{
+  font-size: 30px;
+  color: white;
+  font-family: "Buxton sketch";
+text-align:  justify;
+  margin: 20px;
+}
